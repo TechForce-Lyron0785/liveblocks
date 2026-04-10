@@ -42,7 +42,7 @@
     "eslint-plugin-react-hooks": "^4.6.0",
     "postcss": "^8.4.20",
     "prettier-plugin-tailwindcss": "^0.5.4",
-    "tailwindcss": "^3.2.4",
+    "tailwindcss": "^4.2.2",
     "webextension-polyfill": "^0.10.0"
   },
   "manifest": {
